@@ -1,5 +1,6 @@
 
     public static void main(String[] args) {
+    public class Main {
         int a = 100000;
         byte b= 100;
         short c = 10000;
@@ -107,3 +108,4 @@
         System.out.println("Маша теперь получает" + newSalaryMashaOneYear + "рублей. Годовой доход вырос на" + differenceMasha + "рублей");
         System.out.println("Денис теперь получает" + newSalaryDenisOneYear + "рублей. Годовой доход вырос на" + differenceDenis + "рублей")
         System.out.println("Кристина теперь получает" + newSalaryKristinaOneYear + "рублей. Годовой доход вырос на" + differenceKristina + "рублей");
+    } }
