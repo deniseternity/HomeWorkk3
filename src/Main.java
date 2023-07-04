@@ -1,6 +1,5 @@
-
+public class Main {
     public static void main(String[] args) {
-    public class Main {
         int a = 100000;
         byte b= 100;
         short c = 10000;
